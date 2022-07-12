@@ -8,3 +8,4 @@ https://youtu.be/na3_gAZvAes
 
 
 There is a pdf file I have made to explain about the project in the above branches. If you don't have time to watch that long video you can see that pdf above.
+In this I have already added all the PGSQL commands that I have used in the code. You can get their details online by searching the keyword if required.
